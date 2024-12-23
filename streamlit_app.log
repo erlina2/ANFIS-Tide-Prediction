@@ -1,0 +1,6 @@
+2024-12-16 11:12:05,375:ERROR:Error loading model parameters: [Errno 2] No such file or directory: 'model_params.pkl'
+2024-12-16 11:12:28,565:ERROR:Unexpected error in single prediction: name 'single_prediction' is not defined
+2024-12-16 11:12:35,171:ERROR:Unexpected error in single prediction: name 'single_prediction' is not defined
+2024-12-16 11:12:43,751:ERROR:Unexpected error in batch prediction: name 'batch_prediction' is not defined
+2024-12-16 13:50:16,713:ERROR:Unexpected error in single prediction: name 'single_prediction' is not defined
+2024-12-16 13:50:45,676:ERROR:Error loading model parameters: [Errno 2] No such file or directory: 'model_params.pkl'
