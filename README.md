@@ -15,12 +15,6 @@ This Streamlit application provides a user-friendly interface for predicting tid
 3. Place your pre-trained `anfis_model.pkl` in the same directory
 4. Run the app: `streamlit run app.py`
 
-## Required CSV Format
-For batch prediction, your CSV should have columns:
-- `x1 (2 jam sebelumnya)`: Input 2 hours before
-- `x2 (1 jam sebelumnya)`: Input 1 hour before
-- `y (pasang surut saat ini)`: Actual tide level (for error calculation)
-
 ## Model
 Trained using Recursive Least Squares Estimation (RLSE) with a Fuzzy Neural Network approach.
 
